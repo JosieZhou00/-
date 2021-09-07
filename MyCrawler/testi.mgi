@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassDiagram>
+    <CommunicationClass name="myCrawler_4714.MyCrawler" x="41" y="189">
+        <Communication destinationClassName="myCrawler_4714.Book"/>
+    </CommunicationClass>
+    <CommunicationClass name="myCrawler_4714.Main" x="639" y="343">
+        <Communication destinationClassName="myCrawler_4714.LuceneProcess"/>
+    </CommunicationClass>
+    <CommunicationClass name="myCrawler_4714.Controller" x="42" y="101"/>
+    <CommunicationClass name="myCrawler_4714.LuceneProcess" x="592" y="186">
+        <Communication destinationClassName="myCrawler_4714.Book"/>
+    </CommunicationClass>
+    <CommunicationClass name="myCrawler_4714.Book" x="321" y="207"/>
+</ClassDiagram>
