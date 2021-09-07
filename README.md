@@ -1,8 +1,8 @@
 ### 1.文件架构
 
-+　文档在`/hw4_report.pdf`中
-+　数据在`/MyCrawler/book.json`中
-+　项目在`/MyCrawler`中
+数据在`/MyCrawler/book.json`中
+
+项目在`/MyCrawler`中
 
 ### 2. 运行程序
 
